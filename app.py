@@ -205,4 +205,4 @@ f1_pla = st.file_uploader("1. Planilla Inscripción (A1)", type=['jpg','png','jp
 f1_ced = st.file_uploader("2. Cédula (A1)", type=['jpg','png','jpeg'], key="f1b")
 f1_com = st.file_uploader("3. Constancia Comunidad (A1)", type=['jpg','png','jpeg'], key="f1c")
 f1_ser = st.file_uploader("4. Constancia Servicio (A1)", type=['jpg','png','jpeg'], key="f1d")
-f1_rec = st.file_uploader("📄 Récord Académico A1
+f1_rec = st.file_uploader("📄 Récord Académico A1 (PDF)", type=['pdf'], key="f1e")
